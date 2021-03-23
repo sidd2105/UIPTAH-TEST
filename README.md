@@ -12,7 +12,7 @@
 The template allows us to deploy an AKS cluster that can be easily integrated with entreprise-grade devops process and fulfill the condition to be attached with Azure ML as compute target resources. AKS cluster in this template is MSI ( Managed Service Identity ) enabled and also has at least one system pool ( latest definition at Azure documentation )
 
 
-[![Deploy To Azure](https://api.nuget.org/v3-flatcontainer/uipath/7.1.5218/icon)](file://127.0.0.1/c$/Program%20Files%20(x86)/UiPath/Studio/UiPath.Studio.exe)
+[![Deploy To Azure](https://api.nuget.org/v3-flatcontainer/uipath/7.1.5218/icon)]
 
 
 
