@@ -12,7 +12,7 @@
 The template allows us to deploy an AKS cluster that can be easily integrated with entreprise-grade devops process and fulfill the condition to be attached with Azure ML as compute target resources. AKS cluster in this template is MSI ( Managed Service Identity ) enabled and also has at least one system pool ( latest definition at Azure documentation )
 
 
-[![Deploy To Azure]("https://logodix.com/logo/2077001.png" )]
+[![Deploy To Azure](https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/6b508219-4018-4c15-9fda-c4c41b31a52c.png?)]
 
 
 
