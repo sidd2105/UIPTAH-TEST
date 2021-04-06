@@ -1,6 +1,6 @@
 # Arkansas BCBS PCP_Chrome
 
-[![RPA-1314](https://cdn.digital.ai/cdn/ff/4KQz2gaA_f-OVpGYTxhBu0ztAdI5cKginm4WCRUOBoo/1600108089/public/styles/maxwidth_300/public/pt_logos/jira.png?itok=aG9kgx7o)](https://jira.ssnc.global/browse/RPA-1314) 
+[![RPA-1314](<a class="issue-link" data-issue-key="RPA-1314" href="/browse/RPA-1314" id="key-val" rel="417202">RPA-1314</a>)](https://jira.ssnc.global/browse/RPA-1314) 
 
 
  
