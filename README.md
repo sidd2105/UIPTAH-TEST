@@ -1,5 +1,6 @@
 # Arkansas BCBS PCP_Chrome
 
-[![RPA-1314] ("https://gewerbe.nrw/jirakrz/images/atlassian-jira-logo-large.png")https://jira.ssnc.global/browse/RPA-1314)
+[![RPA-1314](https://cdn.digital.ai/cdn/ff/4KQz2gaA_f-OVpGYTxhBu0ztAdI5cKginm4WCRUOBoo/1600108089/public/styles/maxwidth_300/public/pt_logos/jira.png?itok=aG9kgx7o)](https://jira.ssnc.global/browse/RPA-1314) 
+
 
  
